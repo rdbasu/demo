@@ -165,7 +165,7 @@ fun getCustomContext(@GraphQLContext context: CustomContext): Speaker? {
 ```
 
 ### A MUTATION example [code](https://github.com/rdbasu/demo/blob/master/src/main/kotlin/com/graphqlsummit/demo/mutations/SpeakerMutation.kt#L12)
-> Implement the _MARKER INTERFACE_ **
+> Implement the _MARKER INTERFACE_ **Mutation**
 ```
 class SpeakerMutation : Mutation {
     @GraphQLDescription("A Sample Mutation")
