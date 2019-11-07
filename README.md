@@ -1,5 +1,5 @@
 # Sample [GraphQL](https://graphql.github.io/) [Kotlin](https://kotlinlang.org/) Server
-> Using the **AWESOME** [GraphQL Kotlin](https://expediagroup.github.io/graphql-kotlin/docs/getting-started.html) libraries
+> Using the **AWESOME** [GraphQL Kotlin](https://expediagroup.github.io/graphql-kotlin/docs/getting-started.html) libraries :heart:
 
 ## How To
 ```
